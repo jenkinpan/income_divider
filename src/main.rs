@@ -1,5 +1,3 @@
-use std::result;
-
 slint::include_modules!();
 
 const TAXPER: f64 = 0.30;
