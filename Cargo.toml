@@ -1,6 +1,6 @@
 [package]
 name = "incomeapp"
-version = "1.0.0"
+version = "1.0.2"
 authors = ["jenkinpan <jenkinpan0628@gmail.com>"]
 edition = "2021"
 build = "build.rs"
