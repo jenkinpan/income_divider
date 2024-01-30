@@ -1983,7 +1983,7 @@ checksum = "90d944e334f00f4449c9640b440a171f816be0152305c12ef90424fc35fd035c"
 
 [[package]]
 name = "incomeapp"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "slint",
  "slint-build",
